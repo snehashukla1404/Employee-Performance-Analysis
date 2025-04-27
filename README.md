@@ -51,7 +51,7 @@ To run the application and perform the analysis, use Jupyter notebook:
 - Real-Time Data Integration: Integrate with an employee database to perform live analysis on current data.
 - Performance Reports: Automatically generate PDF/Excel reports with key findings from the analysis.
 
-## Data Visualization Screenshots
+## 📊📸 Data Visualization Screenshots
 ![image](https://github.com/user-attachments/assets/00a7d061-ed4a-414e-9a8b-a26b0e48883a)
 ![image](https://github.com/user-attachments/assets/a976b855-99be-42ce-a098-33233a518e0c)
 ![image](https://github.com/user-attachments/assets/d278a98b-4d09-457b-a24c-a23a96bc3ba6)
